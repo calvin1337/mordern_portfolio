@@ -3,14 +3,14 @@
   "version": "1.0.0",
   "description": "website bla bla bla",
   "main": "index.js",
-  "homepage": "https://calvin1337.github.io/testing",
+  "homepage": "https://calvin1337.github.io/mordern_portfolio",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/calvin1337/testing.git"
+    "url": "git+https://github.com/calvin1337/mordern_portfolio.git"
   },
   "author": "calvin",
   "license": "MIT",
